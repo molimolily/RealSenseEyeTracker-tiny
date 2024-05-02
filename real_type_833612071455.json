@@ -1,0 +1,13 @@
+{
+    "serial": "833612071455",
+    "ip": "",
+    "port": 8000,
+    "width": 640,
+    "height": 480,
+    "fps": 60,
+    "is_flip": true,
+    "enable_depth_estimation": false,
+    "show_image": true,
+    "print_fps": false
+}
+  
